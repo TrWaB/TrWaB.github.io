@@ -1,7 +1,8 @@
 {
-"object": "TribalWars",
-"property": "_ah",
-"prop": "TribalWars-TE",
+"TribalWars": "TribalWars",
+"_ah": "_ah",
 "t": "1",
-"shutdown": "0"
+"property": "TribalWars-TE",
+"property_value": "!t",
+"stop": "0"
 }
