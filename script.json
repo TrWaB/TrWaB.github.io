@@ -1,8 +1,8 @@
 {
 "TribalWars": "TribalWars",
 "_ah": "_ah",
-"t": "1",
+"a": "1",
 "property": "TribalWars-TE",
-"property_value": "!t",
+"property_value": "!a",
 "stop": "0"
 }
