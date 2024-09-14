@@ -4,5 +4,7 @@
 "a": "1",
 "property": "TribalWars-TE",
 "property_value": "!a",
-"stop": "0"
+"stop": "0",
+
+"extensionVersion": "1.1"
 }
