@@ -6,7 +6,8 @@
 "property_value": "!a",
 "stop": "0",
 
-"TribalWars_Ajax": "1",
+"tribalwars_ajax_value": "1",
+"tribalwars_ajax": "TribalWars-Ajax",
 
 "newVersion": "1.1"
 }
